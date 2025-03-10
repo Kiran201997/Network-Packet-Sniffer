@@ -1,0 +1,1 @@
+sudo python3 sniffer.py -i eth0 -f "icmp"
