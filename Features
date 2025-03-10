@@ -1,0 +1,5 @@
+Protocol Detection: Identifies TCP/UDP/ICMP/IP packets
+BPF Filters: Use tcpdump-style filters (e.g., "tcp port 80")
+Payload Preview: Shows first 80 characters of payloads
+PCAP Export: Saves captured packets to captured.pcap
+CTRL+C Handling: Graceful exit with packet save
